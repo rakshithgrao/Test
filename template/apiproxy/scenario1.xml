@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="scenario1">
+    <ConfigurationVersion minorVersion="0" majorVersion="4"/>
+    <CreatedAt>1344337192438</CreatedAt>
+    <CreatedBy>admin</CreatedBy>
+    <Description>null</Description>
+    <LastModifiedAt>1344337192438</LastModifiedAt>
+    <LastModifiedBy>admin</LastModifiedBy>
+    <Policies/>
+    <ProxyEndpoints/>
+    <Resources/>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
